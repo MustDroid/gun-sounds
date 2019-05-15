@@ -24,16 +24,19 @@ public class GunsDatabase {
         guns.add(new Gun("Kalashnikov", R.drawable.kalasnikow, R.raw.plasma));
         guns.add(new Gun("Gun 640", R.drawable.gun_2535417_640, R.raw.laser));
         guns.add(new Gun("Kalashnikov", R.drawable.kalasnikow, R.raw.plasma));
+        guns.add(null);
         guns.add(new Gun("Gun 640", R.drawable.gun_2535417_640, R.raw.laser));
         guns.add(new Gun("Kalashnikov", R.drawable.kalasnikow, R.raw.plasma));
         guns.add(new Gun("Gun 640", R.drawable.gun_2535417_640, R.raw.laser));
+        guns.add(null);
         guns.add(new Gun("Kalashnikov", R.drawable.kalasnikow, R.raw.plasma));
         guns.add(new Gun("Gun 640", R.drawable.gun_2535417_640, R.raw.laser));
         guns.add(new Gun("Kalashnikov", R.drawable.kalasnikow, R.raw.plasma));
+        guns.add(null);
         guns.add(new Gun("Gun 640", R.drawable.gun_2535417_640, R.raw.laser));
         guns.add(new Gun("Kalashnikov", R.drawable.kalasnikow, R.raw.plasma));
         guns.add(new Gun("Gun 640", R.drawable.gun_2535417_640, R.raw.laser));
+        guns.add(null);
         guns.add(new Gun("Kalashnikov", R.drawable.kalasnikow, R.raw.plasma));
-
     }
 }
